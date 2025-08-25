@@ -1,0 +1,13 @@
+.heading{
+    text-shadow: 5px 2px 5px blue;
+}
+button{
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-top:20px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.text{
+    
+}
